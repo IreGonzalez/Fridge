@@ -1,11 +1,21 @@
-# Fridge
+# Proyecto Fridge
 
-## Descripción:
-Aplicación web con la que podrás gestionar la comida de tu frigorífico
-Para conseguirlo ,me he propuesto crear esta aplicación que con un poco de tu ayuda(actualizando el contenido de tu frigorífico-despensa) podrás hacerte plannings semanales con recetas que te propone la aplicación según la comida que te queda y añadiendo al carrito de la compra únicamente los ingredientes que te faltan para poder completar éstas recetas, así comprarás solo la comida que te hace falta cada semana.
+### Cómo arrancar el backend
 
-De esta manera darás salida a la típica zanahoria que si no te das cuenta se queda la pobre toda pocha al fondo del cajón de las verduras esperando a que te acuerdes de ella.
+En la raíz del proyecto:
 
-## Objetivo Personal del proyecto:
-Proyecto creado con la intención de practicar todas las tecnologías aprendidas durante la realización del curso de Adalab, dichas tecnologías son:
-html5, sass, java script, react, nodejs, postman
+1. Ejecutar `npm install`.
+1. Ejecutar `npm start` o `npm run dev`.
+
+El backend se arrancará en http://localhost:4000
+
+### Cómo ejecutar el frontend
+
+En la raíz del proyecto:
+
+1. Ejecutar `cd web`.
+1. Ejecutar `npm install`.
+1. Ejecutar `npm start` o `npm run dev`.
+1. Abrir la página http://localhost:3000
+
+
