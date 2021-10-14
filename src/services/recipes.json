@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Salmorejo",
+        "ingredients": [
+            "Tomate",
+            "Ajo",
+            "Pan"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Pasta al estilo estudiante",
+        "ingredients": [
+            "Pasta",
+            "Atún",
+            "Tomate frito"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Arroz a la cubana",
+        "ingredients": [
+            "Arroz",
+            "Huevo",
+            "Tomate frito"
+        ]
+    }
+]

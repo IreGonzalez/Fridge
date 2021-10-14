@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Pasta",
+        "fresh": false,
+        "unity": "kg"
+    },
+    {
+        "id": "2",
+        "name": "Arroz",
+        "fresh": false,
+        "unity": "kg"
+    },
+    {
+        "id": "3",
+        "name": "Tomate frito",
+        "fresh": false,
+        "unity": "l"
+    },
+    {
+        "id": "4",
+        "name": "Tomate",
+        "fresh": true,
+        "unity": "kg"
+    },
+    {
+        "id": "5",
+        "name": "Ajo",
+        "fresh": true,
+        "unity": "ud"
+    },
+    {
+        "id": "6",
+        "name": "Pan",
+        "fresh": false,
+        "unity": "kg"
+    },
+    {
+        "id": "7",
+        "name": "Atún",
+        "fresh": true,
+        "unity": "ud"
+    },
+    {
+        "id": "8",
+        "name": "Huevo",
+        "fresh": true,
+        "unity": "ud"
+    }
+]
