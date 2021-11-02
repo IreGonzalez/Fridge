@@ -2,6 +2,7 @@
 /Fridge.jpeg
 /api-ingredients.csv
 /api-recipes.csv
+/database.db
 
 # dependencies
 /node_modules
