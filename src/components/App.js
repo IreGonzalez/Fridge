@@ -8,6 +8,7 @@ import ls from '../services/local-storage';
 import '../styles/core/Reset.scss';
 import '../styles/core/Variables.scss';
 import '../styles/App.scss';
+import Pantry from './Pantry';
 
 
 
@@ -15,51 +16,22 @@ import '../styles/App.scss';
 function App() {
   return (
     <div className="App">
-      <nav className="nav">
+      {/* <nav className="nav">
         <button className="nav__button">Fridge</button>
         <h1 className="nav__button">Lista de la compra</h1>
         <button className="nav__button">Planning</button>
-      </nav>
+      </nav> */}
       <main className="main">
-        <section className="section__shopping">
+        {/* <section className="section__shopping">
           <ul className="shopping">
             <li className="shopping__element">
               Elemento lista de la compra
             </li>
           </ul>
-        </section>
-        <section className="section__pantry">
-          <h2 className="section__title">Tu despensa</h2>
-          <div>
-            <ul className="pantry__has">
-              <li className="patry__has--element">
-                <p>Alimento</p>
-                <span>Fecha de compra</span>
-                <button>Carro</button>
-                <button>Eliminar</button>
-              </li>
-            </ul>
-            <form className="pantry__form">
-              <input className="pantry__form--input" type="text" placeholder="Ingrediente" />
-              <input className="pantry__form--input" type="number" placeholder="Cantidad" />
-              <select className="pantry__form--input" name="unit" id="unit">
-                <option className="pantry__form--input" value="u">unidad</option>
-                <option className="pantry__form--input" value="kg">Kilogramos</option>
-                <option className="pantry__form--input" value="l">Litros</option>
-              </select>
-              <input className="pantry__form--input" type="date" name="date" id="date" placeholder="fecha de compra" />
-              <input className="pantry__form--input" type="submit" value="Añadir" />
-            </form>
-            <ul className="pantry__usually">
-              <li className="pantry__usually--element">
-                Ingredientes
-              </li>
-            </ul>
-          </div>
-          <h2 className="section__title">Añade un ingrediente</h2>
-          <h2 className="section__title">Ingredientes Habituales</h2>
-        </section>
-        <section className="section__planning">
+        </section> */}
+        <Pantry />
+
+        {/* <section className="section__planning">
           <h2 className="section__title">Planning de comidas</h2>
           <ol className="week">
             <li className="week__day">
@@ -116,7 +88,7 @@ function App() {
               Receta
             </li>
           </ul>
-        </section>
+        </section> */}
       </main>
 
       {/* <Switch>
