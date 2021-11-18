@@ -1,5 +1,6 @@
 # Fridge
-
+![fridge][fridge]
+[fridge]: https://github.com/IreGonzalez/Fridge/blob/master/src/images/fridge%402x.png "fridge"
 ## Descripción:
 Aplicación web con la que podrás gestionar la comida de tu frigorífico
 Para conseguirlo ,me he propuesto crear esta aplicación que con un poco de tu ayuda(actualizando el contenido de tu frigorífico-despensa) podrás hacerte plannings semanales con recetas que te propone la aplicación según la comida que te queda y añadiendo al carrito de la compra únicamente los ingredientes que te faltan para poder completar éstas recetas, así comprarás solo la comida que te hace falta cada semana.
