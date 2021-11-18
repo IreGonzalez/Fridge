@@ -1,5 +1,5 @@
 # Fridge
-![fridge](https://github.com/IreGonzalez/Fridge/blob/testing/src/images/fridge%402x.svg "fridge")
+![fridge](https://github.com/IreGonzalez/Fridge/blob/testing/src/images/fridge%402x.png "fridge")
 
 ## Descripción:
 Aplicación web con la que podrás gestionar la comida de tu frigorífico
